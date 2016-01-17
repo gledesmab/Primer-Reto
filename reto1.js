@@ -36,3 +36,5 @@ app.get('/notas', function (req, res) {
 
 
 app.listen(3000);
+
+//Listo :)
